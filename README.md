@@ -1,16 +1,7 @@
 # to_do_app
 
-A new Flutter project.
+A to_do Flutter project created using Android Studio
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For editing tasks after the task has been entered into the list, just press the task in all tasks window
+and to delete the tasks from the list long press the particular task you want to delete from the all tasks
+window and it will be deleted
